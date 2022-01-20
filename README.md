@@ -13,7 +13,7 @@
 Acreditamos que a segurança é algo fundamental dentro do nosso corpo-social, e que infelizmente muitas pessoas não conseguem ter a sensação de se sentirem seguros em suas cidades, bairros, e até mesmo em sua rua. A partir desse fato, juntos, pensamos em uma tecnologia de facil acesso a todos e que de maneira pratica e eficaz pudesse proporcionar uma sensação maior de segurança para a população no geral.
 
 ## ◻ Como o app irá funcionar?
-Nosso projeto será de lançar uma rede social de seguranca, onde as pessoas poderiam dar seus depoimentos e denuncias dos lugares na sua cidade, bairro ou até mesmo em sua rua. Dessa maneira o nosso aplicativo iria juntar todas essas informações e sempre te avisaria caso você estivesse adentranto em alguma rgião de risco. Além disso o nosso app teria abas unicas para mulheres e pessoas LGBTQIA+. Nosso app também teraa uma função de notificar as autoridades e sinalizar sempre que ouvesse qualquer tipo de denucia.
+Nosso projeto será de lançar uma rede social de seguranca, onde as pessoas poderiam dar seus depoimentos e denuncias dos lugares na sua cidade, bairro ou até mesmo em sua rua. Dessa maneira o nosso aplicativo iria juntar todas essas informações e sempre te avisaria caso você estivesse adentranto em alguma região de risco. Além disso o nosso app teria abas unicas para mulheres e pessoas LGBTQIA+. Nosso app também tera uma função de notificar as autoridades e sinalizar sempre que ouvesse qualquer tipo de denucia.
 
 <div>
   ### Link do deploy realizado no Swagger/Heroku
